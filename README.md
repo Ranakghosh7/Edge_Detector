@@ -14,5 +14,5 @@ Here is the result of running the script on a sample image:
 
 ## How to Run
 1.  Open MATLAB (or GNU Octave).
-2.  Run the script `edge_detector.m`.
+2.  Run the script `edge_detector.m`. 
 3.  The program will display the comparison window and save the sketch as a PNG file.
