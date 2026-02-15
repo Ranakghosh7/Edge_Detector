@@ -15,7 +15,7 @@ figure;
 subplot(1, 2, 1);
 imshow(originalImage);
 title('Original Image');
-
+    
 %  result 
 subplot(1, 2, 2);
 imshow(edgeData);
