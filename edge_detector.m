@@ -8,7 +8,7 @@ grayImage = rgb2gray(originalImage);
 
 % Detect 
 edgeData = edge(grayImage, 'Canny');
-
+  
 % Displaying
 figure;
 % Show the original on the left
