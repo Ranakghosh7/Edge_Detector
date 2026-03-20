@@ -10,7 +10,7 @@ I learned that MATLAB treats images as matrices (grids of numbers).
 ## Results
 Here is the result of running the script on a sample image:
 
-![Edge Detection Output](output_sketch.png)
+![Edge Detection Output](output_sketch.png)  
 
 ## How to Run
 1.  Open MATLAB (or GNU Octave).
